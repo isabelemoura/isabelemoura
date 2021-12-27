@@ -1,4 +1,4 @@
-## Welcome to my profile! I'm Isabele Alves 👩‍💻
+## Welcome to my profile! I'm Isabele Alves 😃
 
 <div align="center">
   <a href="https://github.com/isabelemoura">
