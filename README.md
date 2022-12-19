@@ -19,11 +19,10 @@
  
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Html](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html&logoColor=purple&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=purple&labelColor=0D1117)&nbsp;
-![Html](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=python&logoColor=purple&labelColor=0D1117)&nbsp;
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
