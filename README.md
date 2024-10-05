@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=purple&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Isabele+Alves+de+Moura;I'm+a+22+year+old+Developer;Based+in+Brazil;Graduate+in+Systems+Development;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isabelemoura&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=isabelemoura&theme=onestar&row=2&no-bg=false&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center"> 
@@ -13,13 +13,13 @@
 </div>
  
 ### 🛠️ Main Skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=purple&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=blue&labelColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=purple&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript&labelColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=HTML5&logoColor=purple&labelColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-white?style=for-the-badge&logo=php&logoColor=purple&labelColor=white)&nbsp; 
+![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=blue&labelColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=purple&labelColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=java&logoColor=purple&labelColor=white)&nbsp;
 
 <div align="center">
   <br><p align="center"><b>Visitor Count</b></p>  
