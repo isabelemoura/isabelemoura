@@ -31,11 +31,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabelemoura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div align="center">
-  <br>
-  <p><b>Total Visitors</b></p>  
-  <img src="https://profile-counter.glitch.me/isabelemoura/count.svg" alt="Visitor Count" />
-  <br>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
